@@ -1,6 +1,6 @@
 # Diabetes Predictor
 
-Original Project[https://colab.research.google.com/drive/1oxnhMTlomJ4HVhPuowpPFyMt1mwuOuQo?usp=sharing#scrollTo=mmJ22qhVvNwj]
+[Original Project](https://colab.research.google.com/drive/1oxnhMTlomJ4HVhPuowpPFyMt1mwuOuQo?usp=sharing#scrollTo=mmJ22qhVvNwj)
 
 ## Overview
 This notebook presents a machine learning model to predict whether a person is diabetic based on various health-related features such as glucose levels, BMI, and insulin. The prediction is based on a dataset and includes data preprocessing steps, model training, evaluation, and a prediction based on user input.
